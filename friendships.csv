@@ -1,0 +1,11 @@
+user,friend
+Alice,Bob
+Alice,Charlie
+Alice,David
+Bob,Alice
+Bob,Eve
+Charlie,Alice
+Charlie,David
+David,Alice
+David,Charlie
+Eve,Bob
